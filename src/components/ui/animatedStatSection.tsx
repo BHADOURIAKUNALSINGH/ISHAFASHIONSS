@@ -7,7 +7,7 @@ const stats = [
   { image: "/images/happy-brides.png", value: "500+", label: "Happy Brides" },
   { image: "/images/customer-rating.png", value: "4.9", label: "Customer Rating" },
   { image: "/images/experience.png", value: "15+", label: "Years Experience" },
-  { image: "/images/collections.jpg", value: "2K+", label: "Collections" },
+  { image: "/images/collections.png", value: "2K+", label: "Collections" },
   { image: "/images/100+designs.png", value: "100+", label: "Designs" },
 ];
 
@@ -71,3 +71,4 @@ export function AnimatedStatsSection() {
     </section>
   );
 }
+
